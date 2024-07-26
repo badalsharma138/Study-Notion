@@ -1,6 +1,6 @@
 
 # StudyNotion - EdTech Platform
-:rocket: [Link to website][https://study-notion-henna-nine.vercel.app/]
+:rocket: [Link to website][https://study-notion-delta-ten.vercel.app/]
 
 
 ![Main Page](images/mainpage.png)
